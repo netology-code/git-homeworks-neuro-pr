@@ -1,0 +1,49 @@
+body {
+}
+
+.wrapper {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+#promo {
+    background: #264fb4;
+    height: 800px;
+}
+
+.promo-container {
+    height: 800px;
+    /* https://pixabay.com/en/cyber-security-online-computer-2296269/, CC0 Creative Commons */
+    background: url("../img/promo.png") 50% 200px no-repeat;
+}
+
+.promo-title {
+    font-size: 2rem;
+    font-weight: normal;
+    max-width: 360px;
+    color: #f0f0f0;
+}
+
+.promo-description {
+    font-size: 1.1rem;
+    color: #f0f0f0;
+}
+
+#contacts {
+    background: #f5f4f4;
+}
+
+.contacts-container {
+}
+
+.contacts-card {
+    border-top: 4px solid #264fb4;
+    border-bottom: 4px solid #264fb4;
+}
+
+footer {
+    color: #fff;
+    background: #1f1f1f;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
