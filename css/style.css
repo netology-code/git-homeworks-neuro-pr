@@ -1,0 +1,25 @@
+body {
+}
+
+.wrapper {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+section {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.jumbotron {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+footer {
+    margin-top: 5em;
+    color: #fff;
+    background: #1f1f1f;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
