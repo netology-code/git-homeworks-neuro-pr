@@ -23,3 +23,7 @@ footer {
     padding-top: 2em;
     padding-bottom: 1em;
 }
+
+.mt-6 img {
+    width: 500px;
+}
