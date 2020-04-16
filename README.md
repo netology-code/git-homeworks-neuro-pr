@@ -4,4 +4,5 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+C:\Netology\Hometask 3\3 a\git-homeworks-neuro-pr
+
