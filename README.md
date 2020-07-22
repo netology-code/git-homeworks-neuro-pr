@@ -4,6 +4,6 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-Тел: <a href="tel:+88003335522">8 800 333 55 22</a>
+Тел: <a href="tel:+88003335522">8 800 333 55 22</a><br>
 Email: [support@test.ru](mailto:support@test.ru)
 
