@@ -6,4 +6,4 @@
 
 _Тел: 8 800 333 55 22_ 
 
-_Email: support@test.ru_ 
+_Email: support@test.ru_
