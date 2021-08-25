@@ -4,4 +4,4 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+Choose different branches or forks above to discuss and review changes
