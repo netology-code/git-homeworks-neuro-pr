@@ -4,4 +4,5 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+Tel.: 8 9xx-xxx-xx-xx
+email: netology@netology.com
