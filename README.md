@@ -6,5 +6,5 @@
 
 Контакты
 
-email: info@company.ru
-tel.: +71234567890
+* email: info@company.ru
+* tel.: +71234567890
