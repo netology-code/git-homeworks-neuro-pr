@@ -6,6 +6,6 @@
 
  **наши контакты**
 
-_Тел: 8 800 333 55 22
+Тел: 8 800 333 55 22
 
-Email: support@test.ru_
+Email: support@test.ru
