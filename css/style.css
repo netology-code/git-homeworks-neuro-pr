@@ -23,3 +23,8 @@ footer {
     padding-top: 2em;
     padding-bottom: 1em;
 }
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
