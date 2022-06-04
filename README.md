@@ -5,4 +5,5 @@
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
 Тел: 8 800 333 55 22
-[Email]: https://mail.yandex.ru/u2709/?uid=1130000014483952#inbox
+
+[support@test.ru:](https://mail.yandex.ru/u2709/?uid=1130000014483952#inbox)
