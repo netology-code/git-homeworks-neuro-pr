@@ -4,4 +4,8 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+## Контакты
+
+*   **Email:** hello@neurostartup.ru
+*   **Телефон:** +7 (999) 123-45-67
+*   **Telegram:** [@neurostartup_bot](https://t.me/neurostartup_bot)
